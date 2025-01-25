@@ -12,13 +12,13 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: gjrK9/+Y3BIEwGz8z5nRcyk/zBQZzd00lgM/LnXqzT6S101vojQMLsVBOGTOCrfpGTtXLe58Qo08yFaFLqT99rsVVeXE0T1kZ6KowanhhQKrMA+cP6MVlGztFDd9w8dQQP+uoC4gU+qwCETokHtZVAeG5MX75YpJ5v2T2VaWYguCGSB/pYASHyNOn9N8Z8/qgR88gPU9WE+SVKMQKzIZcPj20hPE/rM7wBdprWKeYS5wqoKVUDTuz29lVynzM8QGGsKV2+0Vk+2XB9571kgBEg==
         selected: true
-        status: Failed
+        status: Solved
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Failed
+status: Solved
 feedback:
-  message: "Incorrect infancy for age = 1, expected Infancy"
-  time: "Fri, 03 Jan 2025 15:32:36 UTC"
+  message: Congratulations!
+  time: "Sat, 25 Jan 2025 19:15:16 UTC"
 record: -1
