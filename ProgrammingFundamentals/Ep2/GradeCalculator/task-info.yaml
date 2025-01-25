@@ -12,13 +12,13 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: TfCTjhxcmK3+QJCbZSMcoeTv/XCPbf52/7Ba753i5rSh8NCQyP2efi0MtMNOt5MGNuW7X8shgRg6DeDeDUZSF1avSYtwyMCbO1g3kejfy+V0snqjiXRDV4DsGzAhoHKVWxpvJdAiaGbQOEtt/usLsDjCY9TsqQJksOzC11aGq45kbayjaoQfNUvvB9VfTE1YDiFSu5ZiARzX6Q81iKNO1itzhoxOuQBuTvmGVJg+EKWdovGHAD7ZeCZDDXGli6r9XvO12Od7iGZ8zgLpMowoHPpNjGA4VZYEiNhtJCXHTLgwf4SbmGXCARv7kdPTRXijnFKuV/ILlourLGZWAhCufQ==
         selected: true
-        status: Failed
+        status: Solved
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Failed
+status: Solved
 feedback:
-  message: "Incorrect fail for [0, 20, 0, 33, 36], expected Fail"
-  time: "Sat, 25 Jan 2025 17:14:43 UTC"
+  message: Congratulations!
+  time: "Sat, 25 Jan 2025 19:16:43 UTC"
 record: -1

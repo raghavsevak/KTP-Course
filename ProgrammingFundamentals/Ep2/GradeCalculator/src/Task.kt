@@ -9,7 +9,7 @@ fun gradeFor(m1: Int, m2: Int, m3: Int, m4: Int, m5: Int): String {
         average in 6f .. 7f -> "C"
         average in 5f .. 6f -> "D"
         average in 3f .. 5f -> "E"
-        else ->"fail"
+        else ->"Fail"
     }
 }
 
