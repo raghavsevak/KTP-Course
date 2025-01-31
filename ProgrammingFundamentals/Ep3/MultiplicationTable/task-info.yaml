@@ -3,19 +3,26 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 88
-        length: 6
+      - offset: 74
+        length: 156
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 88
         initialized_from_dependency: false
         encrypted_possible_answer: dDroqK5/AfJdNz0YaypvH3GoQDHUzgnf0O0wSgjdtk6szfRIZ8L7mwGKZv2GpQeGqpEia//EWRYZTbSjCJbX8gecYtNaiM4qsgCxUha0JwI=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Failed
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: "Wrong table (58 X 1 = 58\r\n58 X 2 = 116\r\n58 X 3 = 174\r\n58 X 4 = 232\r\
+    \n58 X 5 = 290\r\n58 X 6 = 348\r\n58 X 7 = 406\r\n58 X 8 = 464\r\n58 X 9 = 522\r\
+    \n58 X 10 = 580\r\n) printed for 58, expected (58 X 1 = 58\n58 X 2 = 116\n58 X\
+    \ 3 = 174\n58 X 4 = 232\n58 X 5 = 290\n58 X 6 = 348\n58 X 7 = 406\n58 X 8 = 464\n\
+    58 X 9 = 522\n58 X 10 = 580\n)"
+  time: "Wed, 29 Jan 2025 10:23:35 UTC"
 record: -1
