@@ -4,18 +4,21 @@ files:
     visible: true
     placeholders:
       - offset: 43
-        length: 6
+        length: 246
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 43
         initialized_from_dependency: false
         encrypted_possible_answer: +CGi8633W6A7LUtqalbziQ==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Failed
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
-status: Unchecked
+status: Failed
+feedback:
+  message: Assertion failed
+  time: "Mon, 17 Feb 2025 18:48:04 UTC"
 record: -1
